@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ML-irisi-classification.iml" filepath="$PROJECT_DIR$/.idea/ML-irisi-classification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ML-iris-classification.iml" filepath="$PROJECT_DIR$/.idea/ML-iris-classification.iml" />
     </modules>
   </component>
 </project>
